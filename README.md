@@ -10,7 +10,7 @@ Hi! I'm Vincent Luong, I am a 3rd year **Statistics** 📈 student at the **Univ
 
 Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/luongvincent/)
 
-#🌱 Currently Learning
+# 🌱 Currently Learning
 SQL: Enhancing my expertise in structured data querying and database management to build better pipelines for data analysis and machine learning.
 PyTorch: Expanding my skills in deep learning by developing image classification models and experimenting with neural network architectures.
 
