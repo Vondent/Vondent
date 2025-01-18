@@ -5,12 +5,15 @@ Vondent/Vondent is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 
 --->
+# 🙋‍♂️ About Me
+Hi! I'm Vincent Luong, I am a 3rd year **Statistics** 📈 student at the **University of British Columbia**, with plans to minor in **Data Science** 📊.  
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luongvincent/) 
+Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/luongvincent/)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+#🌱 Currently Learning
+SQL: Enhancing my expertise in structured data querying and database management to build better pipelines for data analysis and machine learning.
+PyTorch: Expanding my skills in deep learning by developing image classification models and experimenting with neural network architectures.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vondent&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vondent&theme=blue_navy&hide_border=false)<br/>
