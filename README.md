@@ -15,7 +15,6 @@ Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/luongvincent/
 - PyTorch: Expanding my skills in deep learning by developing image classification models and experimenting with neural network architectures.
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vondent&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vondent&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vondent&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
