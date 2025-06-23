@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 --->
 # 🙋‍♂️ About Me
-Hi! I'm Vincent Luong, I am a 3rd year **Statistics** 📈 student at the **University of British Columbia**, with plans to minor in **Data Science** 📊.  
+Hi! I'm Vincent Luong, I am a 3rd year **Statistics** 📈 student at the **University of British Columbia**, with a minor in **Data Science** 📊.  
 
 Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/luongvincent/)
 
