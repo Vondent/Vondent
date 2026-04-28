@@ -10,6 +10,8 @@ Hi! I'm Vincent Luong, I am a 4th year **Statistics** 📈 student at the **Univ
 
 Feel free to reach me at my [Linkedin](https://www.linkedin.com/in/luongvincent/)
 
+My Personal [Portfolio](https://www.datascienceportfol.io/vincentluong1)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vondent&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vondent&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
